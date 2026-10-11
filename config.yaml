@@ -1,0 +1,39 @@
+# Réglages généraux du site friteuse-conseil.com
+# Mets des guillemets autour des textes qui contiennent « : »
+
+nom_site: "Friteuse Conseil"
+url: "https://friteuse-conseil.com"
+slogan: "Guides d'achat et conseils pour choisir la bonne friteuse sans huile"
+description: "Guides d'achat, comparatifs et conseils pour bien choisir sa friteuse sans huile (air fryer) : simple ou double tiroir, grande capacité, four à air chaud."
+langue: "fr"
+auteur: "Victor Yaovi"
+email: "contact@friteuse-conseil.com"
+
+# Identifiant de suivi Amazon pour CE site
+amazon_tag: "friteuseconseil-21"
+amazon_domaine: "www.amazon.fr"
+
+# À remplir plus tard (laisser vide pour l'instant)
+cloudflare_analytics_token: ""
+google_site_verification: ""
+pinterest_verification: ""
+
+categories:
+  - slug: "comparatifs"
+    nom: "Comparatifs"
+    description: "Les meilleures friteuses sans huile selon votre budget, votre famille et votre usage."
+  - slug: "double-tiroir"
+    nom: "Double tiroir"
+    description: "Friteuses sans huile à deux paniers pour cuire deux aliments en même temps : nos guides et meilleurs modèles."
+  - slug: "four-air-chaud"
+    nom: "Fours à air chaud"
+    description: "Fours air fryer et modèles multifonctions grande capacité : comment choisir et quels modèles privilégier."
+  - slug: "marques-modeles"
+    nom: "Marques et modèles"
+    description: "Ninja, Philips, Cosori, Moulinex, Tefal : nos avis sur les modèles et nos duels pour vous aider à trancher."
+  - slug: "recettes-cuisson"
+    nom: "Recettes et cuisson"
+    description: "Temps de cuisson, températures et recettes faciles à la friteuse sans huile."
+  - slug: "guides-entretien"
+    nom: "Guides et entretien"
+    description: "Consommation, santé, nettoyage et accessoires : nos conseils pour bien utiliser sa friteuse sans huile."
