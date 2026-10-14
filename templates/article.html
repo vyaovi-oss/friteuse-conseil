@@ -24,8 +24,7 @@
     Par {{ site.auteur }} · Mis à jour le <time datetime="{{ a.mise_a_jour.isoformat() }}">{{ a.mise_a_jour_fr }}</time> · {{ a.temps_lecture }} min de lecture
   </p>
 
-  <p class="mention-affiliation">Cet article contient des liens affiliés Amazon : si vous achetez via ces liens, je touche une petite commission, sans surcoût pour vous.</p>
-
+     <p class="mention-affiliation">Cet article contient des liens affiliés Amazon : si vous achetez via ces liens, je touche une petite commission, sans surcoût pour vous. <a href="/notre-methode/">Découvrez notre méthode</a>.</p>
   {% if a.image_url %}
   <figure class="couverture">
     <img src="{{ a.image_url }}" alt="{{ a.titre }}" width="1200" height="675" fetchpriority="high">
